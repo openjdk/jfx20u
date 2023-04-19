@@ -23,4 +23,4 @@ Issue key|Summary|Subcomponent
 Issue key|Summary|Subcomponent
 ---------|-------|------------
 JDK-8299781 (not public)|Improve JFX navigation|web
-JDK-8304177 (not public)|Unable to navigate to relative URLs after fix for JDK-8299781|web
+JDK-8303501 (not public)|Unable to navigate to relative URLs after fix for JDK-8299781|web
