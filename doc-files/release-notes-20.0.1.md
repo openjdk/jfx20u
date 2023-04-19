@@ -18,3 +18,10 @@ Issue key|Summary|Subcomponent
 [JDK-8302294](https://bugs.openjdk.java.net/browse/JDK-8302294)|Cherry-pick WebKit 615.1 stabilization fixes|web
 [JDK-8302684](https://bugs.openjdk.java.net/browse/JDK-8302684)|Cherry-pick WebKit 615.1 stabilization fixes (2)|web
 [JDK-8303217](https://bugs.openjdk.java.net/browse/JDK-8303217)|Webview loaded webpage is not showing play, volume related buttons for embeded Audio/Video elements|web
+
+## List of Security fixes
+
+Issue key|Summary|Subcomponent
+---------|-------|------------
+JDK-8299781 (not public)|Improve JFX navigation|web
+JDK-8304177 (not public)|Unable to navigate to relative URLs after fix for JDK-8299781|web
