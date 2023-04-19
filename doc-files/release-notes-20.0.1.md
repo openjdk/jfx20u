@@ -10,7 +10,6 @@ These notes document the JavaFX 20.0.1 update release. As such, they complement 
 
 Issue key|Summary|Subcomponent
 ---------|-------|------------
-[JDK-8304008](https://bugs.openjdk.java.net/browse/JDK-8304008)|Update README.md and CONTRIBUTING.md for jfx update repos|other
 [JDK-8299977](https://bugs.openjdk.java.net/browse/JDK-8299977)|Update WebKit to 615.1|web
 [JDK-8300954](https://bugs.openjdk.java.net/browse/JDK-8300954)|HTML default Range input control not rendered|web
 [JDK-8301022](https://bugs.openjdk.java.net/browse/JDK-8301022)|Video distortion is observed while playing youtube video|web
