@@ -12,3 +12,9 @@ Issue key|Summary|Subcomponent
 ---------|-------|------------
 [JDK-8301009](https://bugs.openjdk.java.net/browse/JDK-8301009)|Update libxml2 to 2.10.3|web
 [JDK-8306115](https://bugs.openjdk.java.net/browse/JDK-8306115)|Update libxml2 to 2.10.4|web
+
+## List of Security fixes
+
+Issue key|Summary|Subcomponent
+---------|-------|------------
+JDK-8304751 (not public)|Improve pipeline layout|graphics
